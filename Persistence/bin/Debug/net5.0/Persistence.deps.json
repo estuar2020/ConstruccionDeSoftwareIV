@@ -9,7 +9,6 @@
       "Persistence/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore.Analyzers": "5.0.1",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.1"
         },
         "runtime": {

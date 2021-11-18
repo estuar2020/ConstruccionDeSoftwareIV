@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj": {}
+    "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj": {
+    "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Yiliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\API\\obj\\",
+        "projectPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yiliver\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\h0m3_4cc0unt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj"
+              "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -42,9 +42,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Analyzers": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -79,21 +79,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Yiliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Application\\obj\\",
+        "projectPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yiliver\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\h0m3_4cc0unt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -105,11 +105,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -124,9 +124,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Analyzers": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -144,21 +144,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Yiliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yiliver\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\h0m3_4cc0unt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -196,21 +196,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\Yiliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\h0m3_4cc0unt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yiliver\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\h0m3_4cc0unt\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -222,8 +222,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Yiliver\\Documents\\reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\h0m3_4cc0unt\\Google Drive\\Tecnologico de Antioquia\\TDEA2021-2\\Construccion 4\\Proyectos\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -238,10 +238,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Analyzers": {
-              "target": "Package",
-              "version": "[5.0.1, )"
-            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -262,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
